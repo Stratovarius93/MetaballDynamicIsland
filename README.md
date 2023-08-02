@@ -1,2 +1,2 @@
 # MetaballDynamicIsland
-MetaBall efect using Profile photo and Dynamic Island
+MetaBall effect using Profile photo and Dynamic Island
